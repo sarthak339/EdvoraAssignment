@@ -1,0 +1,35 @@
+.list {
+  position: absolute;
+  /* left: 41px;
+  top: 43px; */
+  /* left: 4.5%;
+  top: 12%; */
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-around; */
+
+  /* align-items: center; */
+  width: 18%;
+  height: 40vh;
+  background: #131313;
+  border-radius: 15px;
+  /* border: 1px solid white; */
+}
+
+.title {
+  border-bottom: 1px solid white;
+  max-width: 100%;
+  min-height: 10vh;
+  color: #a5a5a5;
+  padding-top: 1.5rem;
+  margin: 1rem 1.5rem;
+}
+
+.titles {
+  color: #a5a5a5;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 24px;
+}

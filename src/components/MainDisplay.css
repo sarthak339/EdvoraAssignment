@@ -1,0 +1,24 @@
+.mainDisplay {
+  position: relative;
+  min-width: 100%;
+  min-height: 100vh;
+  background: #292929;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.listdisplay {
+  /* border: 2px solid white; */
+  width: 25%;
+  height: 100vh;
+  padding-top: 4.5%;
+  padding-left: 3.5%;
+}
+
+.screendisplay {
+  /* border: 2px solid white; */
+  width: 75%;
+  /* height: 100vh; */
+  min-height: 100vh;
+}
